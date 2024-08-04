@@ -42,7 +42,7 @@
 <br />
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,django,fastapi,flask,redis,react,tailwind,aws,docker,selenium&perline=6"
+    src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,django,fastapi,flask,react,tailwind,redis,mongodb,postgres,aws,docker,tensorflow,sklearn,selenium&perline=6"
   /><br />
 </div>
 
