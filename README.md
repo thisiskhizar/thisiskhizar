@@ -1,4 +1,12 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thisiskhizar.thisiskhizar&left_text=Profile%20Traffic" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&center=true&vCenter=true&width=640&lines=Hi+there!+%F0%9F%91%8B;I'm+Khizar+Abbasi.;Occasional+free+software+advocate." />
+</h1>
+
+<h3 align="center">I build things for the web.</h3>
+
+<br/>
 
 <!--
 **thisiskhizar/thisiskhizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
