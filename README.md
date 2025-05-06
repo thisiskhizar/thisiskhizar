@@ -27,7 +27,7 @@
     />
   </a>
   &nbsp;
-  <a href="https://thisiskhizar.github.io/portfolio-website/">
+  <a href="https://www.khizar.live/">
     <img
       src="https://img.shields.io/badge/Portfolio-44bd32?style=for-the-badge&logo=Ghost&logoColor=white"
       target="_blank"
