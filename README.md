@@ -1,49 +1,11 @@
-<img
-  align="right"
-  src="https://visitor-badge.laobi.icu/badge?page_id=thisiskhizar.thisiskhizar&left_text=Profile%20Traffic"
-/>
+# Hi, I'm Khizar 👋 👩🏾‍💻
 
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&center=true&vCenter=true&width=640&lines=Hi+there!+%F0%9F%91%8B;I'm+Khizar+Abbasi.;Occasional+free+software+advocate."
-  />
-</h1>
+<img src="https://raw.githubusercontent.com/thisiskhizar/thisiskhizar/master/gh-header-image.jpg" alt="banner that says Muhammad Khizar - Full Stack Developer">
 
-<h3 align="center">I build things for the web.</h3>
+I’m a Full Stack Engineer with 2+ years of experience building robust, end-to-end web and mobile applications. With a background in CS Engineering, I specialize in designing scalable, high-performance solutions across both frontend and backend — using technologies like React.js, Next.js, React Native, Node.js (Express/Nest), Django, FastAPI, and databases like PostgreSQL, MongoDB, and MySQL. I focus on delivering clean, efficient code and intuitive user experiences, whether I'm building RESTful APIs, microservices, or full-stack platforms. My goal is to create real impact through reliable, production-ready software.
 
-<br />
 
-<div align="center">
-  <a href="mailto:letsmailkhizar@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-2c3e50?style=for-the-badge&logo=gmail&logoColor=red"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/thisiskhizar">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.khizar.live/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-44bd32?style=for-the-badge&logo=Ghost&logoColor=white"
-      target="_blank"
-    />
-    <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+## Find me around the web 🌎:
 
-<hr />
-
-<h3 align="center">Technologies I Use</h3>
-<br />
-<div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,django,fastapi,flask,react,tailwind,redis,mongodb,postgres,aws,docker,tensorflow,sklearn,selenium&perline=6"
-  /><br />
-</div>
-
-<br/>
+- Learning in public on <a href="https://www.khizar.live">khizar.live</a> ✍
+- Sharing updates on <a href="https://www.linkedin.com/in/thisiskhizar/">LinkedIn</a> 💼
