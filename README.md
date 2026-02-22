@@ -1,4 +1,4 @@
-# Hi, I'm Khizar 👋 👩🏾‍💻
+# Hi, I'm Khizar 👋 🧑‍💻
 
 <img src="https://raw.githubusercontent.com/thisiskhizar/thisiskhizar/master/gh-header-image.jpg" alt="banner that says Muhammad Khizar - Full Stack Developer">
 
@@ -7,5 +7,5 @@ I’m a Full Stack Engineer with 2+ years of experience building robust, end-to-
 
 ## Find me around the web 🌎:
 
-- Learning in public on <a href="https://www.khizar.live">khizar.live</a> ✍
+- Learning in public on <a href="https://www.khizar.site">khizar.site</a> ✍
 - Sharing updates on <a href="https://www.linkedin.com/in/thisiskhizar/">LinkedIn</a> 💼
